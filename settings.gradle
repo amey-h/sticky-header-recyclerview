@@ -1,0 +1,3 @@
+rootProject.name='StickyHeaderRecyclerViewSample'
+include ':app'
+include ':stickyheaderlib'
